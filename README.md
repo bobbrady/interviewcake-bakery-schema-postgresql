@@ -5,9 +5,9 @@ The [InterviewCake](https://www.interviewcake.com/) bakery schema for SQL questi
 The SQL files provided are:
 
 - **bakery_schema_and_data_pg.sql** => DML INSERTS for the table data
-- **bakery_schema_ddl.sql** => CRREATE TABLE statemnets compatible with PostgreSQL
+- **bakery_schema_ddl.sql** => CREATE TABLE statemnets compatible with PostgreSQL
 
-to unpack the gzipped SQL files:
+To unpack the gzipped SQL files:
 
 ```bash
 # Unpacks and replaces gz file with sql one
