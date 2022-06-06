@@ -1,6 +1,6 @@
 # InterviewCake Bakery Schema for PostgreSQL
 
-The [InterviewCake](https://www.interviewcake.com/) bakery schema for SQL questions is specific to MySQL. This repo provides a PostgreSQL conversion of the schema DDL and insert statements compatiblee with PosgreSQL.
+The [InterviewCake](https://www.interviewcake.com/) bakery schema for SQL questions is specific to MySQL. This repo provides a PostgreSQL conversion of the schema DDL and insert statements compatible with PosgreSQL.
 
 The SQL files provided are:
 
